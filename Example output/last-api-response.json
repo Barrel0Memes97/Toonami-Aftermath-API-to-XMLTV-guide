@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Toonami Aftermath East",
+    "media": [
+      {
+        "name": "Sailor Moon",
+        "startDate": "2026-10-13T21:26:19.257Z",
+        "info": {
+          "image": "https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif",
+          "year": 1995,
+          "episode": "Birthday Blues (Part 1)"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 94
+      },
+      {
+        "name": "DBZ",
+        "startDate": "2026-10-13T21:51:28.052Z",
+        "info": {
+          "fullname": "Dragon Ball Z",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif",
+          "episode": "Dende's Demise"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 70
+      },
+      {
+        "name": "DBZ",
+        "startDate": "2026-10-13T22:15:27.740Z",
+        "info": {
+          "fullname": "Dragon Ball Z",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif",
+          "episode": "The Renewed Goku"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 71
+      },
+      {
+        "name": "Zoids",
+        "startDate": "2026-10-13T22:39:35.674Z",
+        "info": {
+          "image": "https://www.toonamiaftermath.com/assets/imgur/2Vh8RTx.gif",
+          "year": 2001,
+          "episode": "Warriors on Vacation - The Storm Sworders"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 17
+      },
+      {
+        "name": "Coraline",
+        "startDate": "2026-10-13T23:01:00.095Z",
+        "blockName": "Halloween Special Feature",
+        "mediaType": "movie"
+      },
+      {
+        "name": "Ed Edd Eddy",
+        "startDate": "2026-10-14T00:38:20.427Z",
+        "info": {
+          "fullname": "Ed Edd n' Eddy",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/igzgfih.gif",
+          "episode": "Quick Shot Ed"
+        },
+        "blockName": "Cartoon Cartoon",
+        "mediaType": "series",
+        "episodeNumber": 10
+      },
+      {
+        "name": "Dexters Laboratory",
+        "startDate": "2026-10-14T00:49:41.765Z",
+        "info": {
+          "fullname": "Dexter's Laboratory",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/hMP6ON2.gif",
+          "episode": "DiM"
+        },
+        "blockName": "Cartoon Cartoon",
+        "mediaType": "series",
+        "episodeNumber": 121
+      },
+      {
+        "name": "Dragonball",
+        "startDate": "2026-10-14T01:01:30.791Z",
+        "info": {
+          "fullname": "Dragon Ball",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif",
+          "episode": "The Rabbit Boss' Special Technique"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 9
+      },
+      {
+        "name": "Sailor Moon",
+        "startDate": "2026-10-14T01:25:33.265Z",
+        "info": {
+          "image": "https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif",
+          "year": 1995,
+          "episode": "Birthday Blues (Part 2)"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 95
+      },
+      {
+        "name": "DBZ",
+        "startDate": "2026-10-14T01:50:17.431Z",
+        "info": {
+          "fullname": "Dragon Ball Z",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif",
+          "episode": "The End of Vegeta"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 72
+      }
+    ]
+  },
+  {
+    "name": "Toonami Aftermath West",
+    "media": [
+      {
+        "name": "Saint Seiya",
+        "startDate": "2026-10-13T21:18:02.309Z",
+        "info": {
+          "image": "https://www.toonamiaftermath.com/assets/imgur/6rmD2nL.gif",
+          "episode": "Great Explosion! Death Queen Island"
+        },
+        "blockName": "Toonami O.G.",
+        "mediaType": "series",
+        "episodeNumber": 32
+      },
+      {
+        "name": "Mobile Suit Gundam",
+        "startDate": "2026-10-13T21:42:51.980Z",
+        "info": {
+          "image": "https://www.toonamiaftermath.com/assets/imgur/EXLbEng.gif",
+          "year": 1979,
+          "episode": "A Cosmic Glow"
+        },
+        "blockName": "Toonami O.G.",
+        "mediaType": "series",
+        "episodeNumber": 40
+      },
+      {
+        "name": "Robotech",
+        "startDate": "2026-10-13T22:07:24.003Z",
+        "info": {
+          "image": "https://www.toonamiaftermath.com/assets/imgur/d2iQJ5T.gif",
+          "year": 1985,
+          "episode": "The Invid Connection"
+        },
+        "blockName": "Toonami O.G.",
+        "mediaType": "series",
+        "episodeNumber": 59
+      },
+      {
+        "name": "Reboot",
+        "startDate": "2026-10-13T22:32:22.100Z",
+        "info": {
+          "image": "https://www.toonamiaftermath.com/assets/imgur/CFaaZSh.gif",
+          "year": 1994,
+          "episode": "Mousetrap"
+        },
+        "blockName": "Toonami O.G.",
+        "mediaType": "series",
+        "episodeNumber": 35
+      },
+      {
+        "name": "Pokemon",
+        "startDate": "2026-10-13T23:00:00.000Z",
+        "info": {
+          "image": "https://www.toonamiaftermath.com/assets/imgur/VfdN6pP.gif",
+          "year": 1997,
+          "episode": "The School of Hard Knocks"
+        },
+        "blockName": "Classic Toon",
+        "mediaType": "series",
+        "episodeNumber": 9
+      },
+      {
+        "name": "Batman",
+        "startDate": "2026-10-13T23:29:46.181Z",
+        "info": {
+          "fullname": "Batman: The Animated Series",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/nygJi6C.gif",
+          "episode": "The Laughing Fish"
+        },
+        "blockName": "Classic Toon",
+        "mediaType": "series",
+        "episodeNumber": 22
+      },
+      {
+        "name": "Dragonball",
+        "startDate": "2026-10-14T00:01:30.791Z",
+        "info": {
+          "fullname": "Dragon Ball",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/cQBxAVU.gif",
+          "episode": "The Turtle Hermit's Kamehameha"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 8
+      },
+      {
+        "name": "Sailor Moon",
+        "startDate": "2026-10-14T00:26:19.257Z",
+        "info": {
+          "image": "https://www.toonamiaftermath.com/assets/imgur/TnI0NkT.gif",
+          "year": 1995,
+          "episode": "Birthday Blues (Part 1)"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 94
+      },
+      {
+        "name": "DBZ",
+        "startDate": "2026-10-14T00:51:28.052Z",
+        "info": {
+          "fullname": "Dragon Ball Z",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif",
+          "episode": "Dende's Demise"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 70
+      },
+      {
+        "name": "DBZ",
+        "startDate": "2026-10-14T01:15:27.740Z",
+        "info": {
+          "fullname": "Dragon Ball Z",
+          "image": "https://www.toonamiaftermath.com/assets/imgur/4qfad4o.gif",
+          "episode": "The Renewed Goku"
+        },
+        "blockName": "Toonami",
+        "mediaType": "series",
+        "episodeNumber": 71
+      }
+    ]
+  },
+  {
+    "name": "Snickelodeon East",
+    "media": [
+      {
+        "name": "Aaahh!!! Real Monsters",
+        "startDate": "2026-10-13T21:29:57.739Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BNGRhODkxYmYtZjhhMS00OGVlLTk0ZWItZjkwZTUxMDZmYzkxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR109,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 5",
+        "mediaType": "series",
+        "episodeNumber": 35
+      },
+      {
+        "name": "Salute Your Shorts",
+        "startDate": "2026-10-13T22:00:00.000Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDIwNDY5N15BMl5BanBnXkFtZTcwODE5MTI1MQ@@._V1_UY1200_CR112,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 6",
+        "mediaType": "series",
+        "episodeNumber": 19
+      },
+      {
+        "name": "Hey Dude!",
+        "startDate": "2026-10-13T22:31:08.039Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BOTgwZDQ3MmItNDc0NC00YjAxLThlYWQtNTQ3OWJjYzlmMjNlXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 6",
+        "mediaType": "series",
+        "episodeNumber": 21
+      },
+      {
+        "name": "Doug",
+        "startDate": "2026-10-13T23:02:14.171Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NTQzNzI0MV5BMl5BanBnXkFtZTcwNTA5NzMwMg@@._V1_UY1200_CR113,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 6",
+        "mediaType": "series",
+        "episodeNumber": 46
+      },
+      {
+        "name": "Rugrats",
+        "startDate": "2026-10-13T23:32:44.060Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BOTVhNjY2MGItNDgyYy00Y2E5LWFlZmMtZTljY2Y1MzI0ZGI1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR108,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 6",
+        "mediaType": "series",
+        "episodeNumber": 72
+      },
+      {
+        "name": "Secret World Of Alex Mack",
+        "startDate": "2026-10-14T00:00:00.000Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BZjAxODdhYTQtOGU5Ny00ZTM4LWFlZWEtZTY4N2YzNWM5NjJhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR88,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Snick",
+        "mediaType": "series",
+        "episodeNumber": 62
+      },
+      {
+        "name": "All That",
+        "startDate": "2026-10-14T00:28:57.322Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BOWJjZTlhZDYtNzg3MS00MTg5LThiZmItODI2NzA2MGRiZTlhXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Snick",
+        "mediaType": "series",
+        "episodeNumber": 2
+      },
+      {
+        "name": "Kenan & Kel",
+        "startDate": "2026-10-14T00:56:59.349Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTk2MzEzMmUtMGNhMC00ZGYyLTg1ZDUtZmMxNjc3MDVmZjg0XkEyXkFqcGdeQXVyNjExODE1MDc@._V1_UY1200_CR125,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Snick",
+        "mediaType": "series",
+        "episodeNumber": 31
+      },
+      {
+        "name": "Are You Afraid Of The Dark",
+        "startDate": "2026-10-14T01:30:42.799Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BODU0MTU5M2QtMjZiNi00OTZhLTgzZTktNmI4MGQ5NjMwMmE2XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR113,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Snick",
+        "mediaType": "series",
+        "episodeNumber": 62
+      },
+      {
+        "name": "Rocky and Bullwinkle",
+        "startDate": "2026-10-14T02:00:00.000Z",
+        "info": {
+          "year": 1959
+        },
+        "blockName": "Bullwinkle's Moose-O-Rama",
+        "mediaType": "series",
+        "episodeNumber": 74
+      }
+    ]
+  },
+  {
+    "name": "Snickelodeon West",
+    "media": [
+      {
+        "name": "Inspector Gadget",
+        "startDate": "2026-10-13T21:35:53.618Z",
+        "info": {
+          "year": 1983
+        },
+        "blockName": "Nickelodeon 3",
+        "mediaType": "series",
+        "episodeNumber": 7
+      },
+      {
+        "name": "Tintin",
+        "startDate": "2026-10-13T22:05:20.256Z",
+        "info": {
+          "fullname": "The Adventures of Tintin",
+          "year": 1991
+        },
+        "blockName": "Nickelodeon 3",
+        "mediaType": "series",
+        "episodeNumber": 33
+      },
+      {
+        "name": "BeetleJuice",
+        "startDate": "2026-10-13T22:33:42.025Z",
+        "info": {
+          "year": 1989
+        },
+        "blockName": "Nickelodeon 3",
+        "mediaType": "series",
+        "episodeNumber": 61
+      },
+      {
+        "name": "Nick Arcade",
+        "startDate": "2026-10-13T23:00:00.000Z",
+        "info": {
+          "fullname": "Nickelodeon Arcade",
+          "image": "https://m.media-amazon.com/images/M/MV5BMTcwNDIyMDIwOV5BMl5BanBnXkFtZTgwOTEzNjgwMzE@._V1_UY1200_CR485,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 4",
+        "mediaType": "series",
+        "episodeNumber": 31
+      },
+      {
+        "name": "Legends of the Hidden Temple",
+        "startDate": "2026-10-13T23:27:11.776Z",
+        "info": {
+          "year": 1993
+        },
+        "blockName": "Nickelodeon 4",
+        "mediaType": "series",
+        "episodeNumber": 19
+      },
+      {
+        "name": "Rockos Modern Life",
+        "startDate": "2026-10-14T00:00:00.000Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjc5YmYwZmEtZjA3Ni00MWUxLWFjMmYtMzE3NTNiY2MyZTlmXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR84,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 5",
+        "mediaType": "series",
+        "episodeNumber": 35
+      },
+      {
+        "name": "Aaahh!!! Real Monsters",
+        "startDate": "2026-10-14T00:29:57.739Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BNGRhODkxYmYtZjhhMS00OGVlLTk0ZWItZjkwZTUxMDZmYzkxXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR109,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 5",
+        "mediaType": "series",
+        "episodeNumber": 35
+      },
+      {
+        "name": "Salute Your Shorts",
+        "startDate": "2026-10-14T01:00:00.000Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDIwNDY5N15BMl5BanBnXkFtZTcwODE5MTI1MQ@@._V1_UY1200_CR112,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 6",
+        "mediaType": "series",
+        "episodeNumber": 19
+      },
+      {
+        "name": "Hey Dude!",
+        "startDate": "2026-10-14T01:31:08.039Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BOTgwZDQ3MmItNDc0NC00YjAxLThlYWQtNTQ3OWJjYzlmMjNlXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_UY1200_CR85,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 6",
+        "mediaType": "series",
+        "episodeNumber": 21
+      },
+      {
+        "name": "Doug",
+        "startDate": "2026-10-14T02:02:14.171Z",
+        "info": {
+          "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NTQzNzI0MV5BMl5BanBnXkFtZTcwNTA5NzMwMg@@._V1_UY1200_CR113,0,630,1200_AL_.jpg"
+        },
+        "blockName": "Nickelodeon 6",
+        "mediaType": "series",
+        "episodeNumber": 46
+      }
+    ]
+  },
+  {
+    "name": "MTV97"
+  },
+  {
+    "name": "Movies"
+  },
+  {
+    "name": "Toonami Aftermath Radio"
+  },
+  {
+    "name": "Live Code"
+  }
+]

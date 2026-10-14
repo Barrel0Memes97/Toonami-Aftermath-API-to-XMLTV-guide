@@ -1,0 +1,16 @@
+[Unit]
+Description=Generate Toonami Aftermath XMLTV guide
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=oneshot
+User=toonamiepg
+Group=toonamiepg
+WorkingDirectory=/opt/toonami-xmltv
+Environment=TA_OUTPUT_DIR=/opt/toonami-xmltv/www
+Environment=TA_HORIZON_HOURS=24
+Environment=TA_SAMPLE_MINUTES=180
+Environment=TA_REQUEST_DELAY=0.5
+ExecStart=/usr/bin/python3 /opt/toonami-xmltv/toonami_xmltv.py generate
+Nice=10

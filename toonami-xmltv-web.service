@@ -1,0 +1,19 @@
+[Unit]
+Description=Serve Toonami Aftermath XMLTV and M3U files
+Wants=network-online.target
+After=network-online.target
+
+[Service]
+Type=simple
+User=toonamiepg
+Group=toonamiepg
+WorkingDirectory=/opt/toonami-xmltv
+Environment=TA_OUTPUT_DIR=/opt/toonami-xmltv/www
+Environment=TA_HTTP_HOST=0.0.0.0
+Environment=TA_HTTP_PORT=8787
+ExecStart=/usr/bin/python3 /opt/toonami-xmltv/toonami_xmltv.py serve
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
